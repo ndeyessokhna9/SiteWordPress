@@ -1,0 +1,16 @@
+/*
+ Theme Name:   sparkling Child
+
+ Template:     sparkling
+ 
+*/
+.menu-item{
+	font-weight:bold;
+}
+	.navbar-brand{
+		font-size:30px !important;
+	}
+.read-more{
+	font-weight:bold;
+	
+}

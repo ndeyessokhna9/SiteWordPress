@@ -1,0 +1,16 @@
+2020-10-16T13:37:33+00:00 CRITICAL Maximum execution time of 120 seconds exceeded dans C:\xampp\htdocs\wordpress\wp-content\plugins\woocommerce\includes\admin\class-wc-admin-notices.php à la ligne 16
+
+2020-10-16T13:37:50+00:00 CRITICAL Maximum execution time of 120 seconds exceeded dans C:\xampp\htdocs\wordpress\wp-admin\includes\template.php à la ligne 12
+
+2020-10-16T13:38:00+00:00 CRITICAL Maximum execution time of 120 seconds exceeded dans C:\xampp\htdocs\wordpress\wp-includes\plugin.php à la ligne 182
+
+2020-10-16T13:38:10+00:00 CRITICAL Maximum execution time of 120 seconds exceeded dans C:\xampp\htdocs\wordpress\wp-admin\edit-form-advanced.php à la ligne 10
+
+2020-10-16T13:38:10+00:00 CRITICAL Maximum execution time of 120 seconds exceeded dans C:\xampp\htdocs\wordpress\wp-includes\class-wp-meta-query.php à la ligne 167
+
+2020-10-16T13:38:11+00:00 CRITICAL Maximum execution time of 120 seconds exceeded dans C:\xampp\htdocs\wordpress\wp-includes\post.php à la ligne 2824
+
+2020-10-16T13:38:12+00:00 CRITICAL Maximum execution time of 120 seconds exceeded dans C:\xampp\htdocs\wordpress\wp-includes\class-wp-rewrite.php à la ligne 646
+
+2020-10-16T13:38:12+00:00 CRITICAL Maximum execution time of 120 seconds exceeded dans C:\xampp\htdocs\wordpress\wp-includes\formatting.php à la ligne 2701
+
